@@ -39,7 +39,7 @@ def generar():
     temp="".join(temp)
     pyperclip.copy(temp)
 
-    labelPass = Label(root, text=temp).grid(row=3, column=0)
+    #labelPass = Label(root, text=temp).grid(row=3, column=0)
 
 
 opciones = LabelFrame(root, text="Opciones", padx=50)
