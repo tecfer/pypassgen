@@ -10,4 +10,6 @@
 ### requerimientos
 * requiere tener instalado pyperclip, una librería multiplataforma para copiar y pegar texto en el portapapeles.
 
+```bash
 pip install pyperclip
+```
